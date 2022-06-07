@@ -93,7 +93,6 @@ function checkMatch() {
    };
 
    if (cardsPicked[0] == cardsPicked[1]) {
-      alert('You found a match!')
       cards[firstPicked].removeEventListener('click', flipCard);
       cards[secondPicked].removeEventListener('click', flipCard);
       cardsMatched.push(cardsPicked);
