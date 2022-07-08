@@ -16,10 +16,11 @@ body {
    overflow-x: hidden;
 }
 
-h2 {
+h2, span {
    width: 100%;
    text-align: center;
    margin: 2rem auto;
+   font-weight: bold;
 }
 
 #board {
@@ -34,8 +35,9 @@ img {
    cursor: pointer;
    height: 30%;
    width: 30%;
-   margin: 0.1rem;
-   background-color: rgb(0, 85, 134);
+   margin: 0.3rem;
+   background-color: rgb(20, 20, 20);
+   border-radius: 1rem;
 }
 
 .matched {
