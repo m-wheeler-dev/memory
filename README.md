@@ -11,3 +11,7 @@
   <li>If a match is found, the cards with remain revealed and add +1 to your score</li>
   <li>Game is won when player finds all matches</li>
 </ul>
+
+<p>The white dog is Cooper, he's not my dog but he's the best boy!</p>
+<p>The white cat is Max, he was an amazing friend for 20 years!</p>
+<p>The bird, lizard, polar bear, and red panda are stock images from the interwebz... although a pet red panda would be incredible!</p>
