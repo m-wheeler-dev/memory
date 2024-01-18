@@ -1,7 +1,7 @@
 <h1>Memory Game</h1>
 <p>The classics are great for learning!</p>
 
-<img width="500" alt="Screenshot 2023-12-19 at 8 48 29 PM" src="https://github.com/m-wheeler-dev/memory/assets/105622101/a719cfa1-c162-4ffb-9215-609abb01fb0d">
+<img width="500" alt="Memory card game with some cards flipped over" src="https://github.com/mattwheeler-dev/memory/assets/105622101/3b6a0b1e-5d8b-458e-adbb-9eb764dc5307">
 
 <h3>Directions:</h3>
 <ul>
@@ -12,6 +12,4 @@
   <li>Game is won when player finds all matches</li>
 </ul>
 
-<p>The white dog is Cooper, he's not my dog but he's the best boy!</p>
-<p>The white cat is Max, he was an amazing friend for 20 years!</p>
-<p>The bird, lizard, polar bear, and red panda are stock images from the interwebz... although a pet red panda would be incredible!</p>
+
