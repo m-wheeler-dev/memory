@@ -12,4 +12,4 @@
   <li>Game is won when player finds all matches</li>
 </ul>
 
-
+<a href="https://mattwheeler-dev.github.io/memory/" target="_blank">Test it out live here</a>
